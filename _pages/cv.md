@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume](/files/Data_scientist.pdf)
+
 Education
 ======
 * B.Tech. in Computer science, Sri Venkateswara University, 2013
