@@ -19,12 +19,10 @@ Work experience
 * Fall 2017: Graduate Research Assistant
   * Indiana University Bloomington
   * Duties included: Worked on edge computing IoT platform, integrated streaming data(CoAP protocol) from edge devices with Apache heron and performed machine learning alogrithms on it. Built complex topologies on Apache heron for efficient data processing in Heron.
-  * Supervisor: Professor Martin Swany
 
 * 2015-2017: Data Scientist
   * SAP
   * Duties included: Researched extensively on various machine learning algorithms for recommender systems, implemented random walk based approximation algorithm in apache spark. Market segmentation using supervised version of clustering algorithms, built micro services on top of cloud foundry using java. Automated deployment process using groovy scripts on jenkins.
-  * Supervisor: Sheik Bilal
 
 * 2013-2015: Associate Softwar Engineer
   * Accenture
