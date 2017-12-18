@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Naveen Marri"
 title_separator          : "-"
 name                     : &name "Naveen Marri"
-description              : &description "Graduate student at Indiana University Bloomington, part of CREST (Center for Research in Extreme Scale Technologies) lab working on edge computing on resource constrained devices"
+description              : &description "Masters student at Indiana University Bloomington, part of CREST (Center for Research in Extreme Scale Technologies) lab working on edge computing on resource constrained devices"
 url                      : https://naveenkumarmarri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "naveenkumarmarri/naveenkumarmarri.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Naveen Marri"
   avatar           : "profile.jpg"
-  bio              : "Graduate student at Indiana University Bloomington, part of CREST (Center for Research in Extreme Scale Technologies) lab working on edge computing(IoT) on resource constrained devices"
+  bio              : "Masters student at Indiana University Bloomington, part of CREST (Center for Research in Extreme Scale Technologies) lab working on edge computing(IoT) on resource constrained devices"
   location         : "Bloomington, Indiana, United States"
   employer         :
   googlescholar    : 
