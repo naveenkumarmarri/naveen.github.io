@@ -1,3 +1,15 @@
+---
+title: 'Convolutional neural networks(CNN)'
+date: 2017-12-22
+permalink: /posts/2017/22/blog-post-2/
+tags:
+  - CNN
+  - AI
+  - Deep learning
+---
+
+The forward propogation in CNN
+
 
 # Convolutional Neural Networks: Step by Step
 
